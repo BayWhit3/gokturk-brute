@@ -4,7 +4,7 @@ Bu, Instagram hesaplarında brute force saldırılarını test etmek amacıyla k
 
 ## Windows Kullanım
 
-1. `bruteforce.py` dosyasını çalıştırın.
+1. `main.py` dosyasını çalıştırın.
 2. Program size bir kullanıcı adı ve bir wordlist dosyası adı sorması için bir menü sunacaktır.
 3. Kullanıcı adı ve wordlist dosyasını girdikten sonra, brute force saldırısını başlatmak için '1' seçeneğini seçin.
 4. Saldırı devam ederken, program her deneme sonucunu ekrana yazdırır.
